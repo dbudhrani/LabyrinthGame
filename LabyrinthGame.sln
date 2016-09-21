@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{5686ECCB-79FD-CE49-09C3-A12DE5B3DF6C}") = "LabyrinthGame", "Assembly-CSharp.csproj", "{50DDE720-4980-7BEC-5698-D32849D3DEFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{50DDE720-4980-7BEC-5698-D32849D3DEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DDE720-4980-7BEC-5698-D32849D3DEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DDE720-4980-7BEC-5698-D32849D3DEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DDE720-4980-7BEC-5698-D32849D3DEFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
