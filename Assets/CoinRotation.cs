@@ -3,7 +3,7 @@ using System.Collections;
 
 public class CoinRotation : MonoBehaviour {
 
-	public float speed = 100f;
+	public float speed = 60f;
 
 	// Use this for initialization
 	void Start () {
@@ -12,6 +12,6 @@ public class CoinRotation : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Rotate(Vector3.up, speed * Time.deltaTime);
+		transform.Rotate(Vector3.up * speed * Time.deltaTime);
 	}
 }
