@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CoinRotation : MonoBehaviour {
+public class MarsRotation : MonoBehaviour {
 
-	public float speed = 60f;
+	public float speed = 10f;
 
 	// Use this for initialization
 	void Start () {

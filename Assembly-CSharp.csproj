@@ -47,9 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\BlackHoleCollision.cs" />
      <Compile Include="Assets\BoardTilting.cs" />
-     <Compile Include="Assets\CoinCollision.cs" />
-     <Compile Include="Assets\CoinRotation.cs" />
      <Compile Include="Assets\MarsCollider.cs" />
+     <Compile Include="Assets\MarsRotation.cs" />
      <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
      <Compile Include="Assets\WallCollision.cs" />
  <Reference Include="UnityEngine.UI">
