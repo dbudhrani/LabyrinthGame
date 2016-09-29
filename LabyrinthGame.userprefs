@@ -1,11 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BlackHoleCollision.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MarsRotation.cs">
     <Files>
-      <File FileName="Assets/CoinRotation.cs" Line="12" Column="2" />
       <File FileName="Assets/BoardTilting.cs" Line="18" Column="4" />
-      <File FileName="Assets/CoinCollision.cs" Line="6" Column="32" />
-      <File FileName="Assets/BlackHoleCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/BlackHoleCollision.cs" Line="19" Column="36" />
+      <File FileName="Assets/MarsCollider.cs" Line="14" Column="3" />
+      <File FileName="Assets/MarsRotation.cs" Line="6" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

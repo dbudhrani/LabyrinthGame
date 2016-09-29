@@ -3,7 +3,7 @@ using System.Collections;
 
 public class BlackHoleCollision : MonoBehaviour {
 
-	public Vector3 startPosition = new Vector3(6.04f, 5.3f, 1.75f);
+	public Vector3 startPosition = new Vector3(6f, 6f, 1.75f);
 
 	// Use this for initialization
 	void Start () {
